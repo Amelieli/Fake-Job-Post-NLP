@@ -1,6 +1,6 @@
 # Fake-Job-Post-NLP
 Super interesting NLP problem! 
-# Fake Job Description Prediction
+
 This dataset comes from a Kaggle competition in 2020, which contains 18K job descriptions out of which about 800 are fake. 
 https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction \
 The data consists of both textual information and meta-information about the jobs. The dataset can be used to create classification models which can learn the job descriptions which are fraudulent. 
